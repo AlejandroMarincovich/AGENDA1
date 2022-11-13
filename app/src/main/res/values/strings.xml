@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AGENDA 1.1</string>
+    <string name="btn_sensor">sensor</string>
+    <string name="btn_mapa">mapa</string>
+    <string name="btn_extras">extras</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
+
+
